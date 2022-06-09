@@ -10,7 +10,7 @@ It is a practice project for learning in which we will be implementing backend w
 ## BACKEND
 
 1. Nest.js [Interceptors, Class Transformers, Serialization, Authentication, Guards, Strategy, Unit Testing]
-2. TypeORM [Migrations, ]
+2. TypeORM [Migrations, Relationships, Entity Configurations]
 3. Typescript
 4. MySQL [Indexes, Stored Procedures, Views, Triggers, Users, Hosting, Schema Designing]
 5. Swagger Documentation
