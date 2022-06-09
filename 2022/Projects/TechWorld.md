@@ -25,3 +25,28 @@ It is a practice project for learning in which we will be implementing backend w
 
 1. Nginx
 2. Gitlab CI/CD Pipelines.
+
+# FEATURES
+
+1. Popular Categories
+2. Add to Cart
+3. Favorite
+4. Search (Elastic Search)
+5. Profile
+
+# RELEASES (1 RELEASE = 1 MONTH)
+
+## FIRST RELEASE (STARTING = 1st July, 2022)
+
+### PRE-REQUISITIES
+
+1. List all features
+2. ERD
+3. Flutter Learnings
+4. MySQL Hosting
+
+### BACKEND
+
+1.
+
+### MOBILE
