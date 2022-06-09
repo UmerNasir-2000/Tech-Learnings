@@ -26,13 +26,16 @@ It is a practice project for learning in which we will be implementing backend w
 1. Nginx
 2. Gitlab CI/CD Pipelines.
 
-# FEATURES
+# SCREENS
 
-1. Popular Categories
-2. Add to Cart
-3. Favorite
-4. Search (Elastic Search)
-5. Profile
+1. Splash Screen
+2. Login Screen
+3. Register Screen
+4. Home Screen
+5. Category Detail Screen
+6. Product Detail Screen
+7. Add to Cart Screen
+8. Explore Products Screen
 
 # RELEASES (1 RELEASE = 1 MONTH)
 
